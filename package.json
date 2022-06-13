@@ -1,0 +1,16 @@
+{
+  "name": "yaha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "nekozu",
+  "license": "Apache 2.p License",
+  "dependencies": {
+    "fb-video-downloader": "^1.0.3",
+    "telegraf": "^4.4.2"
+  },
+  "devDependencies": {},
+  "description": ""
